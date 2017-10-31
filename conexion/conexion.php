@@ -1,8 +1,8 @@
 <?php
 
 $dsn = 'mysql:dbname=mydb;host=localhost';
-$user = 'fofu';
-$password = 'fofudatabase957';
+$user = 'mdjcarranza';
+$password = 'Vivamexico123';
 
 try{
 
